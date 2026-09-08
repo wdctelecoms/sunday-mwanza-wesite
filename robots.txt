@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sunday-mwanza-wesite.vercel.app/sitemap.xml
