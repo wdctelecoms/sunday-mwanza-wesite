@@ -1,15 +1,29 @@
-# Sunday Mwanza Website
+# Sunday Mwanza — Personal Leadership Website
 
-A modern, responsive personal portfolio website for Sunday Mwanza, focused on organisational partnerships, collaboration and impact.
+A professional, mobile-first personal website for **Sunday Mwanza**.
 
-## Stack
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- Google Fonts
+## Sections
+- About Me
+- My Leadership
+- Projects & Programs
+- Achievements
+- Gallery
+- Contact Me
 
-## Deploy
-The site is static and ready to deploy directly to Vercel or GitHub Pages.
+## Purpose
+The site is structured as a personal brand and portfolio hub so organisations, clubs, partners and other visitors can quickly understand who Sunday Mwanza is, what he stands for, the work he has done and how to connect with him.
 
-## Customisation
-Replace the hero initials placeholder with Sunday Mwanza's professional photo when one is available, and update the contact email in `index.html`.
+## Google visibility
+The page includes a clear `Sunday Mwanza` name in the title, headings, description and structured Person data. This helps search engines understand the page, but Google ranking/indexing cannot be guaranteed by the website alone. Search Console and a verified live domain should be used after deployment.
+
+## Personalisation still needed
+Replace the photo placeholder and sample section text with Sunday Mwanza's verified:
+- leadership positions and dates
+- achievements and awards
+- projects and programmes
+- organisations and clubs
+- gallery photographs
+- email, phone and social links
+
+## Deployment
+Static HTML/CSS/JS. Ready for GitHub Pages or Vercel.
